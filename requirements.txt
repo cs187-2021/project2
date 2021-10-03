@@ -1,4 +1,5 @@
-torch>=1.7.0
+torch
 torchtext>=0.9.0
 matplotlib
-otter-grader == 1.0.0
+otter-grader==1.0.0
+wget
